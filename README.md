@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-# My New Project t
+# My New Project 
 This is the main branch
-=======
-# My New Project
-Branch for new feature
->>>>>>> new-feature
